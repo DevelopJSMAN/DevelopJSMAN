@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DevelopJSMAN
-- 👀 I’m interested in Programming Language (C, C++, JAVA, Python), Embedded, and Web Programmings.
+- 👀 I’m interested in Programming Language (C, C++, JAVA) and Web Programmings.
 - 🌱 I’m currently learning C, C++, JAVA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
